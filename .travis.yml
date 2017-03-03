@@ -1,0 +1,5 @@
+# This is the config file for Travis, a Linux online CI server that integrates with your online code repo.
+
+language: node_js
+node_js:
+  - "6"
